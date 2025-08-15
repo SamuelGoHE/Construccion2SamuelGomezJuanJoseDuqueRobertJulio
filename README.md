@@ -3,7 +3,7 @@
 implementación Proyecto Construcción de Software II
 
 integrantes
-Miguel David Montenegro Figueroa
-Leidy Laura Monterroza Bustamante
-Camila Gómez Gómez
-Dayanna Alejandra Ramirez Hernandez
+Samuel Gomez Henao
+Juan Jose Duque
+Robert Julio
+
